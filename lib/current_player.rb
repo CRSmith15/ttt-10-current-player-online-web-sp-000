@@ -13,5 +13,5 @@ def turn_count(board)
       counter +=1
     end
   end
-  
+  moves.length
 end
