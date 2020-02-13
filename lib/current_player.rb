@@ -9,5 +9,9 @@ def turn_count(board)
       puts "Space Taken."
       moves.push(1)
     else 
+      puts "Open Space."
+      counter +=1
+    end
+  end
   
 end
