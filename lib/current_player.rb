@@ -17,5 +17,6 @@ def turn_count(board)
 end
 
 def current_player(board)
-  turn_count(board)
+  turn_count(board) = x 
+  if x == 0 || x.even 
 end
